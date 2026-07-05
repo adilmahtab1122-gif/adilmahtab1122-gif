@@ -1,0 +1,30 @@
+{
+  "name": "adilmahtab1122-gif",
+  "version": "1.0.0",
+  "description": "<!-- **adilmahtab1122-gif/adilmahtab1122-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "service.js",
+  "scripts": {
+    "start": "node service.js",
+    "dev": "nodemon service.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adilmahtab1122-gif/adilmahtab1122-gif.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adilmahtab1122-gif/adilmahtab1122-gif/issues"
+  },
+  "homepage": "https://github.com/adilmahtab1122-gif/adilmahtab1122-gif#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mysql2": "^3.22.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
